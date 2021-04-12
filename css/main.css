@@ -79,14 +79,14 @@ section {
     line-height: 1.4;
 }
 
-.btn-default  {
+button.btn-default  {
     color: white;
-    background: #faa541;
+    background-color: #faa541;
 }
 
-.btn-primary { 
+button.btn-primary { 
     color: white;
-    background: #364147;
+    background-color: #364147;
 }
 
 .form-control {
