@@ -193,12 +193,12 @@ section {
     text-transform: uppercase;
 }
 
-.hero div h1 {
+.hero h1 {
     position: relative;
     left: -30px;
 }
 
-.hero div h2 {
+.hero h2 {
     color: #faa541;
 }
 
@@ -208,7 +208,7 @@ section {
     line-height: 0.9;
 }
 
-.hero div p {
+.hero p {
     letter-spacing: 2px;
     font-weight: 700;
     font-size: 21px;
