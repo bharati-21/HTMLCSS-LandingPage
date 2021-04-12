@@ -188,7 +188,9 @@ section {
 
 /* Hero */
 .hero {
-    background-image: url('../img/hero.jpg') no-repeat center center/cover;
+    background-image: url('../img/hero.jpg');
+    background-size: cover;
+    background-position: center center;
     height: 400px;
     text-transform: uppercase;
 }
