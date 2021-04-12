@@ -346,6 +346,7 @@ section {
 
 /* Footer */
 footer {
+    display: flex;
     flex-wrap: wrap;
     position: relative;
     z-index: 0;
@@ -372,7 +373,7 @@ footer:after {
 
 .link-header {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin-bottom: 15px;
 }
@@ -381,7 +382,7 @@ footer a {
     color: white;
     text-transform: uppercase;
     font-size: 12px;
-    padding: 0 04px;
+    padding: 0 0 4px;
 }
 
 footer a:hover {
@@ -413,7 +414,7 @@ footer a:hover {
 }
 
 .instagram {
-    background-image: url('../img/instagram.png');
+    background-image: url('../img/instagram.svg');
 }
 
 .newsletter .link-header {
